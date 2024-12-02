@@ -7,3 +7,9 @@
 .test {
     border: 1px solid red;
 }
+.test2 {
+    width: 1440px;
+    height: 852px;
+    margin: 0 auto;
+    border: 1px red;
+}
